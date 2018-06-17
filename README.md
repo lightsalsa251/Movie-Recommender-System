@@ -1,4 +1,2 @@
-# Movie-Recommender-System
-This repository is about making a reccomdation system with PyTorch    
-Autoencoder tutorial is available at
-https://medium.com/@s.ganjoo96/autoencoders-with-pytorch-a89ed28f94a9
+# Movie Recommendation System
+Recommend movies to a specefic user on the basis of his ratings and on what other users watch with similar taste to him.

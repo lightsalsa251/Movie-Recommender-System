@@ -2,7 +2,7 @@
 Recommend movies to a specefic user on the basis of his ratings and on what other users watch with similar taste to him.
 The dataset is available on MovieLens.
 
-## Installating
+## Installation
 ### Downloading the code files
 * Clone this repo to your computer.
 * Get into the folder using cd Movie-Recommender-System.

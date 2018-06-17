@@ -7,7 +7,6 @@ The dataset is available on MovieLens.
 * Clone this repo to your computer.
 * Get into the folder using cd Movie-Recommender-System.
 * Download the data files from MovieLens into this directory.
-* Switch back into the loan-prediction directory using cd ...
 ### Install the requirements
 In your terminal type
 * pip3 install torch torchvision to install with pip

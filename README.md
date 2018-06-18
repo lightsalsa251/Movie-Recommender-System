@@ -1,6 +1,7 @@
 # Movie Recommendation System
 Recommend movies to a specefic user on the basis of his ratings and on what other users watch with similar taste to him.
 The dataset is available on MovieLens.
+#### I have written an article on recommendation system using autoencoders [here](https://medium.com/@s.ganjoo96/autoencoders-with-pytorch-a89ed28f94a9)
 
 ## Installation
 ### Downloading the code files
